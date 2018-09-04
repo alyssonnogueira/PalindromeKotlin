@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="title">DIGITE UMA PALAVRA E VERIFIQUE SE ELA É UM PALINDROME</string>
+</resources>
